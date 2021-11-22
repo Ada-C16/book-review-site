@@ -1,0 +1,22 @@
+body{
+    font-family: fantasy;
+}
+header , footer {
+    border: 2px solid lightgray;
+    padding: 2%;
+    margin-bottom: 1%;
+}
+ul {
+    background-color: rgb(244, 241, 241);
+}
+
+img {
+    width: 20%;
+    height: 30%;
+}
+section li{
+    list-style-type: none;
+}
+nav a:hover {
+    color: lightpink;
+}
