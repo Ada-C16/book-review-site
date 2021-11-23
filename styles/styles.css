@@ -6,10 +6,11 @@ body {
 main {
     background-color: rgb(244, 241, 241);
     padding: 1% 0 1% 0;
+
 }
 
 header, footer {
-    border: 2px solid lightgray;
+    border: rgb(104, 47, 47) solid 2px;
     padding: 2%;
     margin-bottom: 1%;
 
